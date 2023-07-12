@@ -1,12 +1,10 @@
 # Data-Analysis-Portfolio
 ## About
-Hi, I'm Kaitlyn! I have completed my BS degree with a major in Business Management and a minor in Management Information Systems, which has allowed me to acquire a strong foundation in business principles, management skills, strategic thinking, and technology integration. I am excited to bring my technical and analytical skills to the technology field as a data analyst.
+Hi, I'm Kaitlyn! I have completed my BS degree with a major in Business Management and a minor in Management Information Systems, which has allowed me to acquire a strong foundation in business principles, management skills, strategic thinking, and technology integration. By combining my skills in data analysis with my passion for promoting diversity and inclusion, I strive to make a tangible difference in the representation of women in technology. 
 
-During my studies, I honed the ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in 
+During my studies, I honed the ability to work with complex data and developed a keen eye for identifying patterns and trends. A degree in business management has provided me with a solid understanding of various functional areas within an organization, such as marketing, finance, operations, and human resources. This knowledge allows me to contextualize data within the business environment, identify relevant metrics, and generate insights that align with the organizational goals. My minor has equipped me with a diverse set of technical skills, including proficiency in tools such as; Excel, Access, SQL, Tableau, Gephi and RapidMiner.
 
-In this portfolio, I have included a variety of projects that showcase my data analytics skills. 
-
-I have also uncluded examples of my work in data mining and statistics. These projects showcase my ability to extract meaningful insights from large datasets, and combining data from multiple sources to create a comprehensive view of the data.
+In this portfolio, I have included a variety of projects that showcase my data analytics skills, demonstrating my ability to tackle complex business challenges and deliver actionable insights. I have also included examples of my work in data mining and statistics. These projects showcase my ability to extract meaningful insights from large datasets, and combining data from multiple sources to create a comprehensive view of the data.
 
 My CV in 
 
@@ -15,14 +13,13 @@ This repository is to showcase my skills, share projects and track progress in D
 ## Table of Contents
 **About**
 
-**Portfolio Projects**
-    
-**Education**
+**Bank Churning Factors**
+
+**Restaurant Database**
+
+**Sentiment Analysis on Movie Reviews**
 
 **Contact**
-
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ## Bank Churning Factors
 **Code:**
@@ -48,8 +45,6 @@ The result of this project was a comprehensive understanding of the factors cont
 2. Actionable Insights and Recommendations: The project resulted in actionable insights and recommendations to mitigate customer churn. By analyzing the identified churn factors, I provided valuable information for the bank to develop targeted strategies and interventions. These recommendations may include personalized customer retention campaigns, improved customer support initiatives, or product enhancements based on the identified factors.
 
 3. Enhanced Customer Retention Strategies: Armed with the knowledge of influential churn factors, the bank can develop and refine their customer retention strategies. By focusing on the identified factors, they can prioritize efforts and resources on retaining customers who are most at risk of churning, resulting in improved customer satisfaction and long-term loyalty.
-
-
 
 ## Restaurant Database
 **Code:**
@@ -84,3 +79,31 @@ Lastly, to address allergy concerns, I integrated allergy information into the d
 4. Scalability and Future Growth:The database considered scalability, allowing for easy expansion and adaptation as the restaurant grows. It provided a foundation for future enhancements and integration with additional systems or technologies.
   
 5. Data Analysis and Insights: The system enabled the extraction of valuable insights through data analysis. This included identifying popular dishes, tracking customer preferences, analyzing sales patterns, and generating reports. These insights supported informed decision-making and helped optimize business strategies.
+
+## Sentiment Analysis on Movie Reviews
+**Code:**
+
+**Goal:** Develop a predictive model that could estimate the rating customers would likely assign to a movie they hadn't watched.
+
+**Description:** To begin the project, I collected a dataset about movies, such as genre, cast, director, plot summary, and other relevant attributes. Additionally, I gathered customer reviews and ratings for a set of movies to serve as labeled data for model training and evaluation.
+
+I utilized data preparation tools to clean and transform the movie and review data into a suitable format for analysis. This included handling missing values, encoding categorical variables, and normalizing numerical attributes.
+
+I employed feature selection techniques to identify the most relevant attributes that could contribute to predicting customer sentiment. This involved analyzing the correlation between attributes and the target variable, applying statistical tests, or using machine learning algorithms for feature importance ranking.
+
+I trained machine learning algorithms available in RapinMiner, such as support vector machines, on the labeled movie review data. I split the dataset into training and testing sets to evaluate the models' performance and select the best-performing algorithm.
+
+Using the trained model, I made predictions on the unseen movies by feeding their attributes as input. RapidMiner allowed me to generate predicted ratings for these movies, which I then evaluated against actual customer reviews to assess the model's predictive performance.
+
+**Skills:** data preprocessing, feature selection, machine learning, model training and evaluation, predictive analytics
+
+**Technology:** RapidMiner
+
+**Results:** The result of this project was the successful development of a predictive model using RapidMiner to estimate customer reviews for unseen movies. The key outcomes and results achieved include:
+1. Predictive Model: Creation of a robust and accurate predictive model capable of estimating customer sentiment for movies that customers had not watched yet. The model was trained using machine learning algorithms and evaluated using appropriate metrics to ensure its reliability and performance.
+
+2. Decision Support: Provided decision support for movie studios, streaming platforms, and marketers. The predictive model enabled stakeholders to make informed decisions regarding movie releases, marketing campaigns, or investment decisions based on anticipated customer sentiment and ratings.
+
+3. Improved Decision-Making: Contributed to enhanced decision-making processes within the movie industry. By incorporating data-driven insights into the decision-making process, stakeholders were empowered to align their strategies with customer preferences and market trends, leading to more informed and effective decisions.
+
+4. Competitive Advantage: The project's outcome provides a competitive advantage for movie studios or streaming platforms. Anticipating customer sentiment and ratings for unseen movies allows stakeholders to differentiate themselves by offering content tailored to customer preferences, resulting in increased customer engagement and loyalty.
