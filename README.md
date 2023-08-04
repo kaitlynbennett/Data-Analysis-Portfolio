@@ -6,8 +6,6 @@ During my studies, I honed the ability to work with complex data and developed a
 
 In this portfolio, I have included a variety of projects that showcase my data analytics skills, demonstrating my ability to tackle complex business challenges and deliver actionable insights. I have also included examples of my work in data mining and statistics. These projects showcase my ability to extract meaningful insights from large datasets, and combining data from multiple sources to create a comprehensive view of the data.
 
-My CV in 
-
 This repository is to showcase my skills, share projects and track progress in Data Analytics related topics.
 
 ## Table of Contents
@@ -22,8 +20,6 @@ This repository is to showcase my skills, share projects and track progress in D
 **Contact**
 
 ## Bank Churning Factors
-**Code:**
-
 **Goal:** To provide actionable insights and recommendations to mitigate customer churn.
 
 **Description:** The project focused on identifying and visualizing key factors contributing to bank churners. To begin the project, I collected and analyzed a comprehensive dataset that contained various customer attributes and churn information. The dataset encompassed factors such as demographics, account types, and customer churn status.
@@ -47,8 +43,6 @@ The result of this project was a comprehensive understanding of the factors cont
 3. Enhanced Customer Retention Strategies: Armed with the knowledge of influential churn factors, the bank can develop and refine their customer retention strategies. By focusing on the identified factors, they can prioritize efforts and resources on retaining customers who are most at risk of churning, resulting in improved customer satisfaction and long-term loyalty.
 
 ## Restaurant Database
-**Code:**
-
 **Goal:** To design and implement a functional database system for a restaurant to ensure .
 
 **Description:** The database I developed encompassed various entities and relationships, enabling seamless management of restaurant operations. The core entities included customers, employees, suppliers, orders, and recipes. 
@@ -81,8 +75,6 @@ Lastly, to address allergy concerns, I integrated allergy information into the d
 5. Data Analysis and Insights: The system enabled the extraction of valuable insights through data analysis. This included identifying popular dishes, tracking customer preferences, analyzing sales patterns, and generating reports. These insights supported informed decision-making and helped optimize business strategies.
 
 ## Sentiment Analysis on Movie Reviews
-**Code:**
-
 **Goal:** Develop a predictive model that could estimate the rating customers would likely assign to a movie they hadn't watched.
 
 **Description:** To begin the project, I collected a dataset about movies, such as genre, cast, director, plot summary, and other relevant attributes. Additionally, I gathered customer reviews and ratings for a set of movies to serve as labeled data for model training and evaluation.
