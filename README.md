@@ -8,16 +8,6 @@ In this portfolio, I have included a variety of projects that showcase my data a
 
 This repository is to showcase my skills, share projects and track progress in Data Analytics related topics.
 
-## Table of Contents
-**About**
-
-**Bank Churning Factors**
-
-**Restaurant Database**
-
-**Sentiment Analysis on Movie Reviews**
-
-**Contact**
 
 ## Bank Churning Factors
 **Goal:** To provide actionable insights and recommendations to mitigate customer churn.
