@@ -7,3 +7,6 @@ During my studies, I honed the ability to work with complex data and developed a
 In this portfolio, I have included a variety of projects that showcase my data analytics skills, demonstrating my ability to tackle complex business challenges and deliver actionable insights. I have also included examples of my work in data mining and statistics. These projects showcase my ability to extract meaningful insights from large datasets, and combining data from multiple sources to create a comprehensive view of the data.
 
 This repository is to showcase my skills, share projects and track progress in Data Analytics related topics.
+
+## What Have I Done?
+My portfolio includes a range of projects that I have completed over the years in school as well as projects I have completed for fun. These projects range from simple data visualization tasks to complex machine learning tasks.
