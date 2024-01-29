@@ -10,3 +10,10 @@ This repository is to showcase my skills, share projects and track progress in D
 
 ## What Have I Done?
 My portfolio includes a range of projects that I have completed over the years in school as well as projects I have completed for fun. These projects range from simple data visualization tasks to complex machine learning tasks.
+
+## Projects
+[Bank Churning Factors](https://github.com/kaitlynbennett/Data-Analysis-Portfolio/blob/main/Bank%20Churning%20Factors)
+#
+[Restaurant Database](https://github.com/kaitlynbennett/Data-Analysis-Portfolio/blob/main/Restaurant%20Database)
+#
+[Movie Reviews Sentiment Analysis](https://github.com/kaitlynbennett/Data-Analysis-Portfolio/blob/main/Movie%20Reviews%20Sentiment%20Analysis) 
