@@ -1,0 +1,31 @@
+## Restaurant Database
+**Goal:** To design and implement a functional database system for a restaurant to ensure .
+
+**Description:** The database I developed encompassed various entities and relationships, enabling seamless management of restaurant operations. The core entities included customers, employees, suppliers, orders, and recipes. 
+
+For customers, I designed a schema that encompassed essential information such as names, contact details, and preferences. This allowed for personalized service and streamlined communication with customers.
+
+In regards to employees, I developed a system that stored employee profiles, including their roles, contact information, and work schedules. The database also incorporated delivery drivers, allowing the restaurant to efficiently manage deliveries. This enabled the restaurant management to better assign tasks and manage shifts.
+
+Suppliers played a vital role in the restaurant's supply chain, and I incorporated their information into the database. This allowed the restaurant to maintain a record of suppliers, their contact details, and the ingredients they provided.
+
+The ordering system was an integral part of the database, allowing the restaurant to process and track orders. By implementing order history functionality, the database kept a comprehensive record of past orders, facilitating analysis and tracking customer preferences.
+
+The inclusion of menu items and ingredients allowed the restaurant to manage its menu effectively. The database stored information about recipes and the quantity of each ingredient used, while menu items detailed the names and prices. This streamlined menu management and enhanced the overall functionality of the restaurant's menu offerings.
+
+Lastly, to address allergy concerns, I integrated allergy information into the database. This allowed the restaurant staff to quickly identify allergens present in each dish, providing valuable information for customers and ensuring their safety.
+
+**Skills:** database design, data modeling, data management, data analysis, ER diagram, normalization techniques
+
+**Technology:** SQL
+
+**Results:** The result of this project was the successful implementation of a robust and efficient database system for the restaurant. They key outcomes and benefits achieved include:
+1. Improved Data Management: Databse provided a centralized and well-structured platform for storing and managing various entities. This ensured easier access, retrieval, and manipulation of data, enhancing overall data management efficiency.
+   
+2. Streamlined Operations: The implemented database system streamlined various restaurant operations, including order processing, inventory management, customer management, and menu planning. This reduced manual efforts and increased operational efficiency.
+   
+3. Accurate Inventory Tracking: With the inclusion of ingredients and recipes, the database facilitated precise inventory tracking. This ensured better control over ingredient quantities, reduced waste, and improved inventory management.
+   
+4. Scalability and Future Growth:The database considered scalability, allowing for easy expansion and adaptation as the restaurant grows. It provided a foundation for future enhancements and integration with additional systems or technologies.
+  
+5. Data Analysis and Insights: The system enabled the extraction of valuable insights through data analysis. This included identifying popular dishes, tracking customer preferences, analyzing sales patterns, and generating reports. These insights supported informed decision-making and helped optimize business strategies.
