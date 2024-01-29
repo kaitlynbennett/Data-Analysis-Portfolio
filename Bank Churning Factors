@@ -1,8 +1,9 @@
+# **Bank Churning Factors**
+## Goal: 
+To provide actionable insights and recommendations to mitigate customer churn.
 
-## Bank Churning Factors
-**Goal:** To provide actionable insights and recommendations to mitigate customer churn.
-
-**Description:** The project focused on identifying and visualizing key factors contributing to bank churners. To begin the project, I collected and analyzed a comprehensive dataset that contained various customer attributes and churn information. The dataset encompassed factors such as demographics, account types, and customer churn status.
+## Description: 
+The project focused on identifying and visualizing key factors contributing to bank churners. To begin the project, I collected and analyzed a comprehensive dataset that contained various customer attributes and churn information. The dataset encompassed factors such as demographics, account types, and customer churn status.
 
 Firstly, I developed interactive dashboards that showcased key metrics and trends related to customer churn. These dashboards enabled me to analyze the overall churn rate, identify churn patterns over time, and gain a comprehensive view of the customer churn landscape.
 
@@ -10,11 +11,14 @@ Next, I employed various visualizations, such as bar charts, pie charts, and hea
 
 Additionally, I utilized Tableau's advanced features, including filters, parameters, and drill-down capabilities, to delve deeper into the data. This allowed me to conduct detailed exploratory analysis and investigate potential factors at a granular level.
 
-**Skills:** data cleaning, data analysis, data visualization, dashboard creation, data mining, statistical analysis.
+## Skills: 
+data cleaning, data analysis, data visualization, dashboard creation, data mining, statistical analysis.
 
-**Technology:** Tableau
+## Technology: 
+Tableau
 
-**Results:** The most prominent time to churn is at 36 months. The credit card category indicates those with no annual fees are more likely to have bank chruners sign on then cancel after getting the rewards.
+## Results: 
+The most prominent time to churn is at 36 months. The credit card category indicates those with no annual fees are more likely to have bank chruners sign on then cancel after getting the rewards.
 The result of this project was a comprehensive understanding of the factors contributing to bank churners, gained through data analysis and visualization. They key outcomes and results achieved include:
 1. Identification of Key Churn Factors: Through the analysis and visualiztion of customer data, I successfully identified the signififcant factors that contribute to bank churn. These factors include account types and customer interactions. The factor of credit card type indicates those with no annual fees are more likely to have churners sign on then cancel after getting the rewards.
 
